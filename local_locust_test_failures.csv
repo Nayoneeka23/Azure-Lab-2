@@ -1,2 +1,0 @@
-Method,Name,Error,Occurrences
-GET,/numerical_integral/0/3.14159/100000,HTTPError('404 Client Error: NOT FOUND for url: /numerical_integral/0/3.14159/100000'),218

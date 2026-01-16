@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,/numerical_integral/0.0/3.14159/1000,HTTPError('404 Client Error: Not Found for url: /numerical_integral/0.0/3.14159/1000'),875
